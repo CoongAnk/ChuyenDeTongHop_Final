@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^x.x.x",
+    "dotenv": "^x.x.x",
+    "express": "^x.x.x"
+  },
+  "devDependencies": {
+    "nodemon": "^x.x.x"
+  }
+}
